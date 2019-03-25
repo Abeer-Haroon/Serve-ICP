@@ -1,7 +1,10 @@
 
-## Serve
+# Serve
 
 A cloud native government services application based on microservice architecture, which provides one government model where all entities work together. It includes ID/Visa Renewal Service, Emergency Services, Flooding, Housing and Property Services, etc. 
+
+## Architecture
+
 The app is broken down into 5 different microservices:
 1. Authentication
 2. Registration
@@ -11,6 +14,7 @@ The app is broken down into 5 different microservices:
 
 The microservices based applocation is deployed on IBM Cloud Private.
 
+![Architecture](https://github.com/Abeer-Haroon/Serve-ICP/blob/master/Serve%20Architecture.png)
 
 ## Running the Web application locally
 
